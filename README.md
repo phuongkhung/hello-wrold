@@ -1,2 +1,3 @@
 # hello-wrold
-Start
+Hi human
+Im a new coder
